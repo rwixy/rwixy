@@ -93,16 +93,14 @@ I bring a **security-first mindset** to everything I create — from hardening s
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rwixy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=667eea&text_color=c9d1d9" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rwixy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9&langs_count=8" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=rwixy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1">
+    <img src="https://github-profile-trophy.vercel.app/?username=rwixy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" onerror="this.style.display='none'">
+  </picture>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=rwixy&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=667eea&fire=FF6B6B&currStreakLabel=667eea" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rwixy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
 </p>
 
 ---
