@@ -98,7 +98,7 @@ I bring a **security-first mindset** to everything I create — from hardening s
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rwixy&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=667eea&fire=FF6B6B&currStreakLabel=667eea" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=rwixy&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=667eea&fire=FF6B6B&currStreakLabel=667eea" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -131,7 +131,7 @@ If my tools, scripts, or security research helped you, consider fueling my next 
 
 <p align="center">
   <a href="https://buymeacoffee.com/rwixy">
-    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=rwixy&button_colour=667eea&font_colour=ffffff&font_family=Poppins&outline_colour=ffffff&coffee_colour=FFDD00" />
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-667eea?style=for-the-badge&logo=buymeacoffee&logoColor=white&labelColor=667eea" alt="Buy Me A Coffee" />
   </a>
 </p>
 
